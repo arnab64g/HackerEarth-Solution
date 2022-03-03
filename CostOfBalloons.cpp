@@ -23,9 +23,7 @@ int main()
         else if(t1 < t2 && a > b)
             cost = t1*a + t2*b;
         else cost = t1*a+t2*b;
-        cout << cost << endl;
-        
+        cout << cost << endl;   
     }
-    
     return 0;
 }
