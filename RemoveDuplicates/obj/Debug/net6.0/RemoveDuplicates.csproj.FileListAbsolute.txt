@@ -1,0 +1,15 @@
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.exe
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.deps.json
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.dll
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.pdb
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.dll
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\obj\Debug\net6.0\refint\RemoveDuplicates.dll
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.pdb
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.genruntimeconfig.cache
+c:\Users\arnab\OneDrive\Documents\RemoveDuplicates\obj\Debug\net6.0\ref\RemoveDuplicates.dll
